@@ -76,3 +76,4 @@
 /Users/georgi/dolap/dolapwebapp/obj/Release/net9.0/dolapwebapp.pdb
 /Users/georgi/dolap/dolapwebapp/obj/Release/net9.0/dolapwebapp.genruntimeconfig.cache
 /Users/georgi/dolap/dolapwebapp/obj/Release/net9.0/ref/dolapwebapp.dll
+/Users/georgi/dolap/dolapwebapp/obj/Release/net9.0/dolapwebapp.sourcelink.json

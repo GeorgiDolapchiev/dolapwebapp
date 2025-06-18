@@ -13,6 +13,7 @@
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.AssemblyInfo.cs
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.csproj.CoreCompileInputs.cache
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.sourcelink.json
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
@@ -76,4 +77,3 @@
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.pdb
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.genruntimeconfig.cache
 /Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/ref/dolapwebapp.dll
-/Users/georgi/dolap/dolapwebapp/obj/Debug/net9.0/dolapwebapp.sourcelink.json

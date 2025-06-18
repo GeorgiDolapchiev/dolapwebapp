@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dolapwebapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d138db42843e7fc038e292f07fbd3c43a24c2fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("dolapwebapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dolapwebapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
