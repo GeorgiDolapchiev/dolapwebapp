@@ -1,0 +1,7 @@
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/dolapwebapp
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/appsettings.json
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/dolapwebapp.dll
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/dolapwebapp.deps.json
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/dolapwebapp.runtimeconfig.json
+/Users/georgi/dolap/dolapwebapp/bin/Release/net9.0/publish/dolapwebapp.pdb

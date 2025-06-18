@@ -1,0 +1,7 @@
+/Users/georgi/dolap/publish/dolapwebapp
+/Users/georgi/dolap/publish/appsettings.Development.json
+/Users/georgi/dolap/publish/appsettings.json
+/Users/georgi/dolap/publish/dolapwebapp.dll
+/Users/georgi/dolap/publish/dolapwebapp.deps.json
+/Users/georgi/dolap/publish/dolapwebapp.runtimeconfig.json
+/Users/georgi/dolap/publish/dolapwebapp.pdb
